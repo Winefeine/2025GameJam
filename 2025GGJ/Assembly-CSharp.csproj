@@ -62,12 +62,16 @@
     <Analyzer Include="C:\Users\MrCon\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.5\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Winefeine\Scripts\GameFlowManager.cs" />
-    <Compile Include="Assets\Winefeine\Scripts\Phase\BasePhase.cs" />
+    <Compile Include="Assets\Winefeine\Scripts\Player\PlayerInput.cs" />
     <Compile Include="Assets\Winefeine\Scripts\Phase\ParkourPhase.cs" />
-    <Compile Include="Assets\Winefeine\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\Winefeine\Scripts\PlayerInput.cs" />
+    <Compile Include="Assets\Winefeine\Scripts\Phase\BasePhase.cs" />
+    <Compile Include="Assets\Winefeine\Scripts\Player\PlayerFrontSensor.cs" />
+    <Compile Include="Assets\Winefeine\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Winefeine\Scripts\Player\PlayerController.cs" />
     <Compile Include="Assets\Winefeine\Scripts\ObjectPool.cs" />
+    <Compile Include="Assets\Winefeine\Scripts\GameFlowManager.cs" />
+    <Compile Include="Assets\Winefeine\Scripts\Obstacles\BaseObstacle.cs" />
+    <Compile Include="Assets\Winefeine\Scripts\BorderController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -118,7 +118,7 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"E:/WORK/Unity_repository/2025GGJ/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"E:/WORK/GitHub_Desktop_workplace/2025GameJam/2025GGJ/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"F:/WORK/Unity3d/Unity/2021.3.6f1c1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"F:/WORK/Unity3d/Unity/2021.3.6f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"F:/WORK/Unity3d/Unity/2021.3.6f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
